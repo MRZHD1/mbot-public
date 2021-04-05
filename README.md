@@ -1,1 +1,5 @@
 # mbot-public
+Public version of my bot
+
+
+This bot is a personal project that I run on discord. You need a discord bot and token (see: https://discord.com/developers/applications) with member and guild intents ENABLED. It uses mongoDB for the databse in which you have to create yourself and fill in where it asks you to. It is free. It also uses a ROBLOX account for ranking using the ro.py wrapper. If you want to disable this segment just remove the roblox name in the cogs list in main.py. Otherwise, you will have to create a ROBLOX account and put it in a group with management perms. A lot of IDs have to be manually changed to be feasible. I'm currently running this on Google Cloud. This is not a final release which is why the code is mostly unclean with few exception catchers. This is for people who want to see the code overall, and test things using my code. Most things have been coded by me, and me only. Repositories, and a few sections are completely out-sourced and I do not claim ownership or originality in relation to these sections.
